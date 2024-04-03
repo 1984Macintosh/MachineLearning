@@ -1,0 +1,1 @@
+Alguns arquivos feitos durante a disciplina de Noções de Inteligência Artificial, da Universidade de Brasília em 2023. Disciplina ministrada pelo professor Thiago Romariz e projeto feitos em cooperação com o colega de curso Israel Melo.
